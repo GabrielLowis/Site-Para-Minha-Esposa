@@ -12,14 +12,8 @@
     font-weight: normal;
     font-style: normal;
 }
-<<<<<<< HEAD
 
 body{
-=======
-body{
-    width: 100%;
-    /* padding: 300px 0; */
->>>>>>> 0d5eb697506aa8580672420fc157aceead8e64ad
     display: flex;
     align-items: center;
     justify-content: center;
@@ -47,10 +41,7 @@ body{
 }
 
 .text{
-<<<<<<< HEAD
     width: 90%;
-=======
->>>>>>> 0d5eb697506aa8580672420fc157aceead8e64ad
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -58,11 +49,8 @@ body{
     font-size: 20px;
     letter-spacing: 2px;
     font-family: "Fonte";
-<<<<<<< HEAD
     text-align: center;
     margin-bottom: 50px;
-=======
->>>>>>> 0d5eb697506aa8580672420fc157aceead8e64ad
 }
 
 p{
@@ -92,10 +80,6 @@ p{
     border-radius: 20px;
     background-color: #ff9b82;
     animation: loading 20s forwards cubic-bezier(0,0,0,0);
-<<<<<<< HEAD
-=======
-
->>>>>>> 0d5eb697506aa8580672420fc157aceead8e64ad
 }
 
 @keyframes loading{
@@ -126,13 +110,10 @@ li:hover{
     animation: degrade-animado 1s infinite alternate;
     color: white;
     font-weight: 500;
-<<<<<<< HEAD
 }
 
 @media (max-width: 320px) {
     .loading .line-box{
         width: 90%;
     }
-=======
->>>>>>> 0d5eb697506aa8580672420fc157aceead8e64ad
 }

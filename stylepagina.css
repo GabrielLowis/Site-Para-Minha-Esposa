@@ -21,16 +21,23 @@
 
 .container{
     display: flex;
+<<<<<<< HEAD
     flex-direction: column;
     width: 100%;
     height: auto;
     /* justify-content: space-evenly; */
     /* flex-direction: row; */
     /* flex-wrap: wrap; */
+=======
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+>>>>>>> 0d5eb697506aa8580672420fc157aceead8e64ad
     background-color: #fce4de;
 }
 
 .main{
+<<<<<<< HEAD
     font-family: "Fonte";
     display: flex;
     height: 100vh;
@@ -45,6 +52,16 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+=======
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    margin-top: 10%;
+    font-family: "Fonte";
+    height: 80vh;
+    width: 50%;
+>>>>>>> 0d5eb697506aa8580672420fc157aceead8e64ad
 }
 
 #estrela{
@@ -52,6 +69,7 @@
     margin-bottom: 50px;
 }
 
+<<<<<<< HEAD
 aside{
     /* background-color: #46f633; */
     width: 50%;
@@ -59,6 +77,8 @@ aside{
 
 
 
+=======
+>>>>>>> 0d5eb697506aa8580672420fc157aceead8e64ad
 
 h1{
     color: #f65c33;
@@ -85,11 +105,14 @@ aside{
     width: 50%;
 }
 
+<<<<<<< HEAD
 .foto img{
     /* background-color: #3633f6; */
     width: 500px
 }
 
+=======
+>>>>>>> 0d5eb697506aa8580672420fc157aceead8e64ad
 /* SEGUNDA TELA ------------------------------------------*/
 
 .containerDois{
@@ -399,6 +422,7 @@ li:hover{
     font-weight: 500;
 }
 
+<<<<<<< HEAD
 @media (max-width: 1050px){
     .main{
         flex-direction: column;
@@ -492,3 +516,5 @@ li:hover{
     }
 }
 
+=======
+>>>>>>> 0d5eb697506aa8580672420fc157aceead8e64ad
